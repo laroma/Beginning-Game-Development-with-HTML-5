@@ -1,0 +1,10 @@
+* {
+	font-family: monospace;
+	font-size: 1em;
+}
+
+.debug {
+	background-color: #cfcfcf;
+	padding: 5 5 5 5;
+	width: 100%;
+}
